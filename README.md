@@ -2,7 +2,7 @@
 <h1 align="center">Hi guys, I'm Bapps</h1>
 <h3 align="center">I'm currently developing my skills in the Cybersecurity area.</h3>
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
